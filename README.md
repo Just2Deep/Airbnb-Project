@@ -1,5 +1,5 @@
-# Tableau
-Airbnb dashboard in tableau
+# Project
+Airbnb listings data cleaning, analysis and visualisation.
 
 This repository has details of the data used for creating this dashboard in tableau and also the link to view final dashboard.
 
